@@ -1,0 +1,3 @@
+JMH S 27 com.example.BenchmarkRunner S 56 com.example.jmh_generated.BenchmarkRunner_bitset_jmhTest S 6 bitset S 10 Throughput E A 1 1 1 E I 2 10 T 7 1000 ms E I 2 20 T 7 1000 ms E I 1 1 E E E E E E E E E 
+JMH S 27 com.example.BenchmarkRunner S 62 com.example.jmh_generated.BenchmarkRunner_booleanArray_jmhTest S 12 booleanArray S 10 Throughput E A 1 1 1 E I 2 10 T 7 1000 ms E I 2 20 T 7 1000 ms E I 1 1 E E E E E E E E E 
+JMH S 27 com.example.BenchmarkRunner S 54 com.example.jmh_generated.BenchmarkRunner_loop_jmhTest S 4 loop S 10 Throughput E A 1 1 1 E I 2 10 T 7 1000 ms E I 2 20 T 7 1000 ms E I 1 1 E E E E E E E E E 
